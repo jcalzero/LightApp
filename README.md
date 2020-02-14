@@ -20,7 +20,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://recordit.co/C2W6TY4Ogr' title='Light animated demo' alt='Light animated demo' />
+<img src='http://g.recordit.co/C2W6TY4Ogr.gif' title='Light animated demo' alt='Light animated demo' />
 
 ## Notes
 
